@@ -1,8 +1,9 @@
 # Facebook Profile Page
 
 A new Flutter project.
+
 #Image
-![Screenshot_1634147875](https://user-images.githubusercontent.com/60986439/137789909-0dbd1be8-f913-4e83-b0e2-8ea8fae77ee2.png)
+![Screenshot_1634147875](https://user-images.githubusercontent.com/60986439/137789909-0dbd1be8-f913-4e83-b0e2-8ea8fae77ee2.png 100x100)
 
 ## Getting Started
 
